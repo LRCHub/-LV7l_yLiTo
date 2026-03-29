@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ありきたりな恋の歌 - off vocal",
+  "base_artist": "GYARI（ココアシガレットP）",
+  "createdAt": "2026-03-29T15:35:33.123518Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありきたりな恋の歌",
+      "artist": "GYARI (ココアシガレットP )",
+      "has_synced": false,
+      "path": "select/pl_01_ありきたりな恋の歌_GYARI_(ココアシガレットP_).txt"
+    }
+  ]
+}
